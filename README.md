@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Feyd aka Kaan</h1>
 <h3 align="center">I'm coding since 2020, 15 yo, from Turkey</h3>
 
-- 🔭 I’m currently working on **Discord projects**
+- 🔭 I’m currently working on **FRC projects**
 
 - 📫 How to reach me **discord: feyds**
 
