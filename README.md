@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **discord: feyds**
 
-- 🌐 <a href="https://kaankahraman.me" target="_blank"/>My Website</a>
+- 🌐 <a href="https://kaankahraman.me" target="_blank">My Website</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
